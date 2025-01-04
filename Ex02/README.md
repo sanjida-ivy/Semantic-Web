@@ -87,6 +87,8 @@ This document provides a simplified guide to working with RDF (Resource Descript
   ```
   **Explanation:** This specifies Germany's name in German and English.
 
+**Note:** `xsd` is a namespace used to define standard data types like integers, dates, and strings.
+
 ---
 
 ## **6. Blank Nodes**
